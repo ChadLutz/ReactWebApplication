@@ -1,0 +1,6 @@
+**/node_modules
+**/package-lock.json
+**/build
+**/.DS_Store
+/node-js-server/app/config/auth.config.js
+/node-js-server/app/config/db.config.js
